@@ -15,5 +15,8 @@ class ViewController: UIViewController {
     }
 
 
+    @IBAction func feature1ButtonPressed(_ sender: Any) {
+        print("F1")
+    }
 }
 
