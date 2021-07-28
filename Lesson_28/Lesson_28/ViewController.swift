@@ -17,8 +17,13 @@ class ViewController: UIViewController {
     }
 
 
+<<<<<<< HEAD
     @IBAction func feature2buttonPressed(_ sender: Any) {
         print("feature2")
+=======
+    @IBAction func feature1ButtonPressed(_ sender: Any) {
+        print("F1")
+>>>>>>> develop
     }
 }
 

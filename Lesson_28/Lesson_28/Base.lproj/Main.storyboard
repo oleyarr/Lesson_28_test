@@ -22,6 +22,11 @@
                                 <state key="normal" title="Feature2"/>
                                 <connections>
                                     <action selector="feature2buttonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="KJI-8B-5Vf"/>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0Fl-38-6Eo">
+                                <rect key="frame" x="78" y="123" width="220" height="124"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Fiture1"/>
+                                    <action selector="feature1ButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ns8-9w-LbX"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -35,6 +40,7 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-197.10144927536234" y="112.5"/>
+            <point key="canvasLocation" x="28.985507246376812" y="88.392857142857139"/>
         </scene>
     </scenes>
     <resources>
